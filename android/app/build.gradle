@@ -79,7 +79,7 @@ android {
 
     namespace "com.crown"
     defaultConfig {
-        applicationId "com.crown"
+        applicationId "australia.entertainment.crown.game"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
